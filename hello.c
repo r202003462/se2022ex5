@@ -7,5 +7,6 @@ int main(void) {
         printf("%d\n", i);
     }
 
+    printf("bye!\n");
     return 0;
 }
